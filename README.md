@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! :)
+
+I'm Antara (she/her), a junior at Harvard College studying computer science, linguistics, and astrophysics. For more about me, here is my [resume](https://drive.google.com/file/d/1XJqZ1eJ5lM-wr0U19gf5wwZ7uWJWEJlb/view?usp=sharing). 
 
 <!--
 **antara-raaghavi/antara-raaghavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
