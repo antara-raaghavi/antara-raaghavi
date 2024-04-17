@@ -1,7 +1,5 @@
 ### Hello! :)
 
-I'm Antara (she/her)! I study computer science, linguistics, and astrophysics. 
-
 <!--
 **antara-raaghavi/antara-raaghavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
